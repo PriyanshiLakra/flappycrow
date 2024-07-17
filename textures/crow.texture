@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "crow",
+  "identifier": "texture:208160-ae1a1c7e-997b-4b06-a083-2d4b1eb417e2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "6afead6fe04f7e2bafb55aa6be2adfd1",
+  "assetLocator": "textures/crow.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:209072-ae1a1c7e-997b-4b06-a083-2d4b1eb417e2",
+    "textureExportConfig:209192-ae1a1c7e-997b-4b06-a083-2d4b1eb417e2",
+    "textureExportConfig:209316-ae1a1c7e-997b-4b06-a083-2d4b1eb417e2"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 500,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 500,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "6afead6fe04f7e2bafb55aa6be2adfd1",
+      "colorCount": 9077,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.227612761108392,
+      "pixelsHigh": 500,
+      "pixelsWide": 500
+    }
+  ]
+}
